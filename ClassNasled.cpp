@@ -52,6 +52,7 @@ int main()
 
     cout << " проверяею commit";
     // Делаю изменения для Второй ветки
+    cout << "Ghjdthrf dtnrb";
     system("pause");
     return(0);
 }
